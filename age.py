@@ -12,4 +12,4 @@ elif driving =='沒有':
 	else:
 		print('再過幾年就可以考了')
 else:
-	print('只能書如有/沒有')
+	print('只能輸入有/沒有')
